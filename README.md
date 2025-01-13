@@ -13,7 +13,7 @@
 > 
 > **I'm not a doctor. This is not medical advice. I'm also only a network engineer. You assume all liability in using or reproducing these files.**
 
-- [Top Case .step file](https://github.com/theycallmeboxy/hydrochoerus/blob/main/models/case/hydrochoerus-top-case.step)
-- [Top Case drawing file](https://github.com/theycallmeboxy/hydrochoerus/blob/main/models/case/hydrochoerus-top-case.pdf)
-- [Middle Case .step file](https://github.com/theycallmeboxy/hydrochoerus/blob/main/models/case/hydrochoerus-middle-case.step)
-- [Bottom Case .step file](https://github.com/theycallmeboxy/hydrochoerus/blob/main/models/case/hydrochoerus-bottom-case.step)
+- [Top Case .step file](https://github.com/theycallmeboxy/hydrochoerus/blob/main/models/hydrochoerus-top-case.step)
+- [Top Case drawing file](https://github.com/theycallmeboxy/hydrochoerus/blob/main/models/hydrochoerus-top-case.pdf)
+- [Middle Case .step file](https://github.com/theycallmeboxy/hydrochoerus/blob/main/models/hydrochoerus-middle-case.step)
+- [Bottom Case .step file](https://github.com/theycallmeboxy/hydrochoerus/blob/main/models/hydrochoerus-bottom-case.step)
