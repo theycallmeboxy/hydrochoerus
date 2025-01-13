@@ -1,11 +1,11 @@
 # hydrochoerus
 *A hospitable habitat for Le Capybara*
 
-<img src="https://github.com/theycallmeboxy/hydrochoerus/blob/main/img/hydrochoerus-01.jpg" alt="keyborb" width="600"/>
+<img src="https://github.com/theycallmeboxy/hydrochoerus/blob/main/img/hydrochoerus-01.JPG" alt="keyborb" width="600"/>
 
-<img src="https://github.com/theycallmeboxy/hydrochoerus/blob/main/img/hydrochoerus-02.jpg" alt="keyborb" width="600"/>
+<img src="https://github.com/theycallmeboxy/hydrochoerus/blob/main/img/hydrochoerus-02.JPG" alt="keyborb" width="600"/>
 
-<img src="https://github.com/theycallmeboxy/hydrochoerus/blob/main/img/hydrochoerus-03.jpg" alt="keyborb" width="600"/>
+<img src="https://github.com/theycallmeboxy/hydrochoerus/blob/main/img/hydrochoerus-03.JPG" alt="keyborb" width="600"/>
 
 ## Production Files:
 > [!CAUTION]
